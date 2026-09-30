@@ -1,0 +1,235 @@
+{
+ "table": "Table I: twenty-two formalisms by what each takes as given, and by citation cluster",
+ "axes": {
+  "A": "manipulation technology (known / drawn / menu)",
+  "B": "channel set (fixed / designer-selected / agent-alterable)",
+  "C": "ground truth (observable / corruptible / absent)",
+  "D": "citation cluster"
+ },
+ "verification_statuses": {
+  "full": "checked against primary source in full",
+  "model_spec": "checked at model-specification level (abstract plus model section)",
+  "not_incorporated": "primary text not incorporated in the table; cells left empty",
+  "evidenced": "rests on a primary source evidenced in the paper"
+ },
+ "rows": [
+  {
+   "field": "Mechanism design with evidence",
+   "A_manipulation_technology": "known: M(theta) known to principal",
+   "B_channel_set": "fixed",
+   "C_ground_truth": "absent",
+   "D_cluster": "E-DISC",
+   "between_cluster_gap_verified_by_full_bibliography_reading": true,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Evidence acquisition",
+   "A_manipulation_technology": "menu A_t; exogenous, known to principal",
+   "B_channel_set": "fixed",
+   "C_ground_truth": "absent",
+   "D_cluster": "E-DISC",
+   "between_cluster_gap_verified_by_full_bibliography_reading": true,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Probabilistic verification",
+   "A_manipulation_technology": "known: pi(tau|theta)",
+   "B_channel_set": "designer selects from fixed T",
+   "C_ground_truth": "absent",
+   "D_cluster": "E-DISC",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Verifiable disclosure / unraveling",
+   "A_manipulation_technology": "costless, verifiable",
+   "B_channel_set": "fixed",
+   "C_ground_truth": "absent",
+   "D_cluster": "E-DISC",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Evidence games",
+   "A_manipulation_technology": "evidentiary cost exogenous, non-prohibitive",
+   "B_channel_set": "fixed",
+   "C_ground_truth": "absent",
+   "D_cluster": "E-DISC",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Muddled information",
+   "A_manipulation_technology": "drawn: theta=(eta,gamma)~ F",
+   "B_channel_set": "one",
+   "C_ground_truth": "absent",
+   "D_cluster": "SIGNAL",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Manipulable data",
+   "A_manipulation_technology": "drawn; m exogenous",
+   "B_channel_set": "one",
+   "C_ground_truth": "absent",
+   "D_cluster": "SIGNAL",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Multi-feature scoring",
+   "A_manipulation_technology": "drawn: (theta,eta,delta) jointly elliptical, delta>= 0",
+   "B_channel_set": "k fixed features",
+   "C_ground_truth": "absent",
+   "D_cluster": "SIGNAL",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Test design under falsification",
+   "A_manipulation_technology": "known: gamma public",
+   "B_channel_set": "one",
+   "C_ground_truth": "absent",
+   "D_cluster": "SIGNAL",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Strategic classification",
+   "A_manipulation_technology": "known cost function",
+   "B_channel_set": "fixed features",
+   "C_ground_truth": "absent",
+   "D_cluster": "SIGNAL",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Costly state falsification",
+   "A_manipulation_technology": "known cost function g(x,y)",
+   "B_channel_set": "one",
+   "C_ground_truth": "public by default; corruptible at cost g",
+   "D_cluster": "CONTRACT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Robust mechanism design",
+   "A_manipulation_technology": "no evidence modelled",
+   "B_channel_set": "unrestricted messages",
+   "C_ground_truth": "absent",
+   "D_cluster": "ROBUST",
+   "between_cluster_gap_verified_by_full_bibliography_reading": true,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Security indices (CPS)",
+   "A_manipulation_technology": "known: H known or I/O-identified",
+   "B_channel_set": "fixed sensors",
+   "C_ground_truth": "observable physics",
+   "D_cluster": "SEC-GAME",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Inspection games",
+   "A_manipulation_technology": "",
+   "B_channel_set": "",
+   "C_ground_truth": "",
+   "D_cluster": "SEC-GAME",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "not incorporated: secondary source only, cells left empty"
+  },
+  {
+   "field": "Moving target / FlipIt",
+   "A_manipulation_technology": "known",
+   "B_channel_set": "fixed",
+   "C_ground_truth": "observable on control",
+   "D_cluster": "SEC-GAME",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked at model-specification level"
+  },
+  {
+   "field": "Certification economics",
+   "A_manipulation_technology": "certifier stringency chosen; capture modelled",
+   "B_channel_set": "fixed certifiers",
+   "C_ground_truth": "absent",
+   "D_cluster": "CERT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked against primary source in full"
+  },
+  {
+   "field": "Ratings shopping",
+   "A_manipulation_technology": "sources honest; distortion from selection",
+   "B_channel_set": "fixed raters",
+   "C_ground_truth": "absent",
+   "D_cluster": "CERT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "Collusion and audit",
+   "A_manipulation_technology": "known: hidden monetary transfers, unrestricted",
+   "B_channel_set": "one monitor",
+   "C_ground_truth": "observable to monitor",
+   "D_cluster": "AUDIT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked at model-specification level"
+  },
+  {
+   "field": "Peer prediction",
+   "A_manipulation_technology": "not modelled",
+   "B_channel_set": "fixed peers",
+   "C_ground_truth": "absent; consensus substituted",
+   "D_cluster": "ELICIT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked at model-specification level"
+  },
+  {
+   "field": "Instrumental variables",
+   "A_manipulation_technology": "not modelled",
+   "B_channel_set": "instrument set fixed",
+   "C_ground_truth": "latent; exogeneity untestable",
+   "D_cluster": "IDENT",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "checked at model-specification level"
+  },
+  {
+   "field": "Common-cause failure",
+   "A_manipulation_technology": "non-adversarial: shared cause, coupling mechanism",
+   "B_channel_set": "fixed components",
+   "C_ground_truth": "n/a",
+   "D_cluster": "RELIAB",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  },
+  {
+   "field": "ML benchmark design",
+   "A_manipulation_technology": "not modelled",
+   "B_channel_set": "fixed harness",
+   "C_ground_truth": "re-execution",
+   "D_cluster": "BENCH",
+   "between_cluster_gap_verified_by_full_bibliography_reading": false,
+   "verification_status": "rests on primary source evidenced in the paper (Appendix A / Section III)"
+  }
+ ],
+ "corrections_recorded_in_appendix_H": [
+  {
+   "row": "Costly state falsification",
+   "column": "C",
+   "was": "absent",
+   "now": "public by default; corruptible at cost g",
+   "reason": "In Lacker and Weinberg (1989) the endowment is publicly observed unless the agent pays to falsify it."
+  },
+  {
+   "row": "Multi-feature scoring",
+   "column": "A",
+   "was": "drawn: delta ~ elliptical",
+   "now": "drawn: (theta, eta, delta) jointly elliptical, delta >= 0",
+   "reason": "In Ball (2025) the joint (1+2k)-vector is elliptical subject to delta >= 0; the confounding rests on the joint law."
+  }
+ ],
+ "counts": {
+  "rows": 22,
+  "clusters": 11
+ }
+}

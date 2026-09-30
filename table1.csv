@@ -1,0 +1,23 @@
+field,A_manipulation_technology,B_channel_set,C_ground_truth,D_cluster,between_cluster_gap_verified_by_full_bibliography_reading,verification_status
+Mechanism design with evidence,known: M(theta) known to principal,fixed,absent,E-DISC,True,rests on primary source evidenced in the paper (Appendix A / Section III)
+Evidence acquisition,"menu A_t; exogenous, known to principal",fixed,absent,E-DISC,True,checked against primary source in full
+Probabilistic verification,known: pi(tau|theta),designer selects from fixed T,absent,E-DISC,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Verifiable disclosure / unraveling,"costless, verifiable",fixed,absent,E-DISC,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Evidence games,"evidentiary cost exogenous, non-prohibitive",fixed,absent,E-DISC,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Muddled information,"drawn: theta=(eta,gamma)~ F",one,absent,SIGNAL,False,checked against primary source in full
+Manipulable data,drawn; m exogenous,one,absent,SIGNAL,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Multi-feature scoring,"drawn: (theta,eta,delta) jointly elliptical, delta>= 0",k fixed features,absent,SIGNAL,False,checked against primary source in full
+Test design under falsification,known: gamma public,one,absent,SIGNAL,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Strategic classification,known cost function,fixed features,absent,SIGNAL,False,checked against primary source in full
+Costly state falsification,"known cost function g(x,y)",one,public by default; corruptible at cost g,CONTRACT,False,checked against primary source in full
+Robust mechanism design,no evidence modelled,unrestricted messages,absent,ROBUST,True,rests on primary source evidenced in the paper (Appendix A / Section III)
+Security indices (CPS),known: H known or I/O-identified,fixed sensors,observable physics,SEC-GAME,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Inspection games,,,,SEC-GAME,False,"not incorporated: secondary source only, cells left empty"
+Moving target / FlipIt,known,fixed,observable on control,SEC-GAME,False,checked at model-specification level
+Certification economics,certifier stringency chosen; capture modelled,fixed certifiers,absent,CERT,False,checked against primary source in full
+Ratings shopping,sources honest; distortion from selection,fixed raters,absent,CERT,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+Collusion and audit,"known: hidden monetary transfers, unrestricted",one monitor,observable to monitor,AUDIT,False,checked at model-specification level
+Peer prediction,not modelled,fixed peers,absent; consensus substituted,ELICIT,False,checked at model-specification level
+Instrumental variables,not modelled,instrument set fixed,latent; exogeneity untestable,IDENT,False,checked at model-specification level
+Common-cause failure,"non-adversarial: shared cause, coupling mechanism",fixed components,n/a,RELIAB,False,rests on primary source evidenced in the paper (Appendix A / Section III)
+ML benchmark design,not modelled,fixed harness,re-execution,BENCH,False,rests on primary source evidenced in the paper (Appendix A / Section III)

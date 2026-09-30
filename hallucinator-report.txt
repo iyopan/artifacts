@@ -1,0 +1,115 @@
+Extracting references from main.pdf...
+Found 67 references to check
+(Skipped 0 URLs, 2 short titles)
+
+
+[?] INCONCLUSIVE: On adaptive attacks to adversarial example defenses
+    Could not check — these databases failed after retries: Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Every good regulator of a system must be a model of that system
+    Could not check — these databases failed after retries: Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Convergence of estimates under dimensionality restrictions
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+
+============================================================
+POTENTIAL HALLUCINATION DETECTED
+============================================================
+
+Title:
+  Guidelines on modeling common-cause failures in probabilistic risk assessment
+
+Status: Title found on Open Library but authors don't match
+
+PDF Authors:
+  • A. Mosleh
+  • D. M. Rasmuson
+  • F. M. Marshall
+
+DB Authors (Open Library):
+  • A. Mosleh
+
+------------------------------------------------------------
+
+[?] INCONCLUSIVE: SoK: oracles from the ground truth to market manipulation
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: On security indices for state estimators in power networks
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Withholding verifiable information
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Can trustless agents be trusted? An empirical study of the ERC-8004 decentralized AI agent ecosystem
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: A general decision theory for Huber’s ϵ-contamination model
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Quantitative analysis of attack-fault trees via Markov decision processes
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Former chief financial officer of Agritrade International Pte Ltd charged for cheating
+    Could not check — these databases failed after retries: arXiv
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Former chief financial officer of Agritrade International Pte Ltd sentenced to 20 years’ imprisonment
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: 
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Investigation into the British Business Bank’s accreditation of Greensill Capital
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Lessons from Greensill Capital
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: On evaluating adversarial robustness
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: RobustBench: a standardized adversarial robustness benchmark
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Certified adversarial robustness via randomized smoothing
+    Could not check — these databases failed after retries: arXiv, Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+[?] INCONCLUSIVE: Town Crier: an authenticated data feed for smart contracts
+    Could not check — these databases failed after retries: Semantic Scholar
+    This is NOT evidence the reference is wrong. Re-run when the databases are reachable.
+
+
+============================================================
+SUMMARY
+============================================================
+  Total references found: 67
+  References analyzed: 67
+  Skipped: 2 (URLs: 0, short titles: 2)
+  Skipped (URL check disabled): 1
+
+  Verified: 46
+  Mismatches: 1
+    Author: 1
+  Inconclusive (database lookup failed): 19 — re-run when reachable
+
